@@ -1,10 +1,3 @@
-He6-CRES
-=======
-
-This is a public repo for storing the table of contents for all repositories, mapping their names to their contents.
-If you have a new repository in the He6-CRES group, it is recommended that you add it to this README.
-
-
 ## Analysis
 
 - katydid
