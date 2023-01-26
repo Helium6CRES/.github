@@ -5,8 +5,10 @@
 
 ## Simulations
 - he6-cres-spec-sims
+- c-urchin
 - Power-Calculations
 - He6_Beta_Spectrum
+
 
 ## DAQ
 - He6DAQ
