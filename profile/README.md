@@ -17,3 +17,4 @@
 - rocks_analysis_pipeline
 - cres_analysis_pipeline
 - Plotting_Scripts
+- Sideband_Classification
