@@ -18,3 +18,4 @@
 - cres_analysis_pipeline
 - coral_reef
 - Sideband_Classification
+- new_rate_over_internet
