@@ -13,6 +13,9 @@
 ## DAQ
 - He6DAQ
 
+## Magnet Mapping
+- cnidaria
+
 ## Scripts/ Miscellaneous
 - rocks_analysis_pipeline
 - cres_analysis_pipeline
