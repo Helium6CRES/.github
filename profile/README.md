@@ -21,4 +21,7 @@
 - cres_analysis_pipeline
 - coral_reef
 - Sideband_Classification
-- new_rate_over_internet
+
+## Beta Monitor
+- rate_over_internet_v2
+- PowerSupplyParamSet_v2
