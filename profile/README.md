@@ -23,5 +23,4 @@
 - Sideband_Classification
 
 ## Beta Monitor
-- rate_over_internet_v2
-- PowerSupplyParamSet_v2
+- Betta_fish
